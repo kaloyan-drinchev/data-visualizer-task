@@ -16,23 +16,23 @@
 ## Main Page
 
 Displays the first 20 posts.
-![alt text](image-1.png)
+![alt text](./public/image-1.png)
 
 ## Add New Post
 
 On the bottom we have the Add New Post forms.
 When we add new post we get notification and we see the newest post at the top.
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](./public/image-2.png)
+![alt text](./public/image-3.png)
 
 ## Form Validation
 
-![alt text](image-5.png)
+![alt text](./public/image-5.png)
 
 ## Filter by User
 
 After we Filter by User we see all posts from the selected user
-![alt text](image-4.png)
+![alt text](./public/image-4.png)
 
 ### Installation
 
